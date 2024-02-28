@@ -11,7 +11,7 @@ $lesNationalites=$req->fetchAll();
 
     <div class="row">
         <div class="col-9"><h2>Liste des Nationalités</h2></div>
-        <div class="col-3 mb-2"><a href="" class='btn btn-success'><i class="fa-duotone fa-plus"></i> Créer une nationalité</a></div>
+        <div class="col-3 mb-2"><a href="formAjtNationalite.php" class='btn btn-success'><i class="fa-duotone fa-plus"></i> Créer une nationalité</a></div>
         
     </div>
     <table class="table table-hover table-striped">
